@@ -40,6 +40,13 @@ export const SideBar = () => {
                 <SidebarChat/>
                 <SidebarChat/>
                 <SidebarChat/>
+                <SidebarChat/>
+                <SidebarChat/>
+                <SidebarChat/>
+                <SidebarChat/>
+                <SidebarChat/>
+                <SidebarChat/>
+                <SidebarChat/>
 
             </div>
             

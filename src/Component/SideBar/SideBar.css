@@ -45,3 +45,8 @@
     border: none;
     background-color: #f6f6f6;
 }
+.sidebar_chats{
+    flex: 1;
+    background-color: white;
+    overflow: scroll;
+}
